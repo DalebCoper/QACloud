@@ -1,6 +1,5 @@
 from api.api import Api
 import const
-import pytest
 
 
 def test_get_posts():
